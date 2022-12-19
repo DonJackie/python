@@ -18,6 +18,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print(my_function(1,2))
-    print_hi('PyCharm')
+    print_hi(jenny_email)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
